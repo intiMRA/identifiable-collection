@@ -11,7 +11,7 @@ import SwiftUI
 struct IdentifialbeCollectionApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            SelectableListView()
         }
     }
 }
